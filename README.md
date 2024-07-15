@@ -1,1 +1,1 @@
-# .github
+# Welcome to Sonatype Open Source Community
