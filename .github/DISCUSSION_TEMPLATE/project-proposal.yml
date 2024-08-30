@@ -1,7 +1,7 @@
 title: "[Project Proposal] "
 labels: ["Project Proposal"]
 body:
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         Explain your idea here.
