@@ -1,0 +1,9 @@
+title: "[Project Proposal] "
+labels: ["Project Proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Explain your idea here.
+
+        FYI @sonatype-nexus-community/community-leaders
