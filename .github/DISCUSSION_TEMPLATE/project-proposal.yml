@@ -3,6 +3,7 @@ labels: ["Project Proposal"]
 body:
   - type: textarea
     attributes:
+      label: "What is your Project Idea?"
       value: |
         Explain your idea here.
 
