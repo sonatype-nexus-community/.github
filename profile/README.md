@@ -2,4 +2,4 @@
 
 ![Sonatype Community Logo!](./sonatype-community-logo.png "Sonatype Community Logo")
 
-It's great to have you here with us.
+It's great to have you here with us. Check out our [Community Handbook](https://contribute.sonatype.com/) to learn how to engage with our Community.
